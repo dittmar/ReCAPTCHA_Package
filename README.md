@@ -1,3 +1,3 @@
 # ReCAPTCHA_Package
 
-A description of this package.
+@jkereako's ReCAPTCHA gist turned into a Swift Package with Objective-C support.
